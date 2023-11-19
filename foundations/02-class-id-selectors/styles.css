@@ -1,0 +1,20 @@
+.paragraphs {
+    color: black;
+    background-color: rgba(255, 0, 0, 30%);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+   }
+   
+#num-2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#num-4 {
+    background-color: rgba(0, 255, 0, 50%);
+    font-size: 24px;
+    font-weight: bold;
+}
